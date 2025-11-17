@@ -6,6 +6,3 @@ and this is line 4
 
 this is line 5
 aaand thaaat is line 6
-
------
-to delete in the future
